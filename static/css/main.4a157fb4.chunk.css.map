@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YACF,CAEA,kBACE,yBACF,CAEA,mBACE,WACF","file":"main.4a157fb4.chunk.css","sourcesContent":[".App {\n  height: 100vh;\n}\n\n.has-text-warning {\n  transition: all 0.3s linear;\n}\n\n.buttons-container {\n  width: 600px;\n}\n"]}
